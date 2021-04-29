@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "setup": "npm i -g @vue/cli-service && npm i -g @vue/cli-plugin-babel --no-bin-links && npm i -g vue-template-compiler && npm i --no-bin-links && termux-fix-shebang /data/data/com.astrosohu/files/usr/bin/vue-cli-service",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "@vue/cli-plugin-babel": "~4.5.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
