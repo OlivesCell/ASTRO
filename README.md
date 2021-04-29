@@ -1,0 +1,2 @@
+# ASTRO
+https://play.google.com/store/apps/details?id=com.astrosohu apps and node_modules with https://play.google.com/store/apps/details?id=com.termux but builds only with https://play.google.com/store/apps/details?id=vn.vhn.vsc if root access granted for execute permissions unless Code-Sever on GoogleCloudConsole with no root required unless one over expenses with limited size with https://play.google.com/store/apps/details?id=io.spck.editor.node or https://play.google.com/store/apps/details?id=com.paprbit.dcoder where others are worse
